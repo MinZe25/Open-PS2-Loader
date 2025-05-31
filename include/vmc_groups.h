@@ -1,14 +1,3 @@
-// memory_card_groups.h
-//
-// WARNING: This file embeds dictionary data directly into the header.
-// This approach is used to fulfill a specific request but is generally NOT
-// recommended for large datasets or for headers included in many .c files.
-// Each .c file that includes this header will get its own copy of this data,
-// which can increase compilation time and executable size.
-//
-// For standard practice, data definitions should be in a .c file,
-// with only declarations in the .h file.
-
 #ifndef VMC_GROUPS_H
 #define VMC_GROUPS_H
 
